@@ -1,0 +1,12 @@
+files:
+  - source: '*.json'
+    ignore:
+      - zh-TW
+      - zh-HK
+      - zh-CN
+      - lzh
+      - resources
+      - node_modules
+      - package.json
+      - package-lock.json
+    translation: '%original_path%/%original_file_name%'
