@@ -1,0 +1,30 @@
+name: Update Translation
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  merge-pull-requests:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Merge Pull Requests
+      uses: actions/github-script@v3
+      with:
+        script: |
+          const pullRequests = await github.pulls.list({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open'
+          })
+          for (const pullRequest of pullRequests.data) {
+            if (pullRequest.title === 'New Crowdin updates') {
+              await github.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pullRequest.number
+              })
+            }
+          }
