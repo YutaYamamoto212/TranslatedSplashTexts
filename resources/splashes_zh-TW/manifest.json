@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "將閃爍標語翻譯成繁體中文（台灣）。",
+    "name": "繁體中文（台灣）的閃爍標語資源包 v1.4.2",
+    "uuid": "0f30c541-c795-459c-830b-a0edd2b4df19",
+    "version": [
+      1,
+      4,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "將閃爍標語翻譯成繁體中文（台灣）。",
+      "type": "resources",
+      "uuid": "c36f5c9a-d8fe-447d-92db-25b246613fdb",
+      "version": [
+        1,
+        4,
+        2
+      ]
+    }
+  ]
+}
