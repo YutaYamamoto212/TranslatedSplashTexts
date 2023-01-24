@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "description": "譯熒熒標語成文言（華夏）。",
-    "name": "文言（華夏）之熒熒標語資囊 v1.4.3",
-    "uuid": "0456ecfc-99fd-40c8-9ca2-c7f39da3fc53",
+    "name": "文言（華夏）之熒熒標語資囊 v1.4.4",
+    "uuid": "70ae2da4-92a2-4a82-b306-6fc44bc55b03",
     "version": [
       1,
       4,
-      3
+      4
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "譯熒熒標語成文言（華夏）。",
       "type": "resources",
-      "uuid": "ee09e6b9-51aa-4f72-87c3-cf208e9088fe",
+      "uuid": "abba6746-d843-4b50-8e26-0d2c226f09f3",
       "version": [
         1,
         4,
-        3
+        4
       ]
     }
   ]
