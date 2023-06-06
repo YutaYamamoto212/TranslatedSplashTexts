@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "description": "将闪烁标语翻译成简体中文（中国大陆）。",
-    "name": "简体中文（中国大陆）的闪烁标语资源包 v1.4.6",
-    "uuid": "1c985bb2-7af0-4003-8edd-83511d493bf1",
+    "name": "简体中文（中国大陆）的闪烁标语资源包 v1.4.7",
+    "uuid": "cb42d96a-fb28-4e31-b837-7f0fdaa9ccd1",
     "version": [
       1,
       4,
-      6
+      7
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "将闪烁标语翻译成简体中文（中国大陆）。",
       "type": "resources",
-      "uuid": "85f98458-49b4-4235-96eb-ba2f448901ae",
+      "uuid": "aac3ae31-e491-4e90-8efb-5fb3637ab12d",
       "version": [
         1,
         4,
-        6
+        7
       ]
     }
   ]
