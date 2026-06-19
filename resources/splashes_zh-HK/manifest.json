@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "description": "將閃爍標語翻譯成繁體中文（香港特別行政區）。",
-    "name": "繁體中文（香港特別行政區）嘅閃爍標語資源包 v1.4.8",
-    "uuid": "2d349796-cfa0-4dd2-b192-ed9e5547f2eb",
+    "name": "繁體中文（香港特別行政區）嘅閃爍標語資源包 v2.0.2",
+    "uuid": "d52bfba0-9823-4b71-aa86-a88f9bd84d52",
     "version": [
-      1,
-      4,
-      8
+      2,
+      0,
+      2
     ],
     "min_engine_version": [
       1,
@@ -19,11 +19,11 @@
     {
       "description": "將閃爍標語翻譯成繁體中文（香港特別行政區）。",
       "type": "resources",
-      "uuid": "1a7a937e-476d-486a-a594-3e1558d1009f",
+      "uuid": "45c807b3-85b2-4ef4-b0e6-c10d542fbaf7",
       "version": [
-        1,
-        4,
-        8
+        2,
+        0,
+        2
       ]
     }
   ]
